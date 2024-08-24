@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://lauverta.github.io/sitemap/sitemap.txt
